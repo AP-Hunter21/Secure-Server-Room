@@ -1,5 +1,5 @@
 # 🛡️ Secure Server Room: IoT Data Ingestion & Anomaly Detection Pipeline
-# Note- Codes are in 2nd branch
+# Note: Codes are in 2nd branch
 ## 📖 Overview
 This project is an end-to-end data pipeline that simulates, ingests, processes, and visualizes physical-world signals from a highly secure server room. It satisfies all requirements of the SAIG system architecture assignment.
 
